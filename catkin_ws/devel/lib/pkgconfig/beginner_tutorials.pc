@@ -2,7 +2,7 @@ prefix=/home/ubuntu/__a__/github/ros1_tutorials/catkin_ws/devel
 
 Name: beginner_tutorials
 Description: Description of beginner_tutorials
-Version: 0.0.0
+Version: 0.1.0
 Cflags: 
 Libs: -L/home/ubuntu/__a__/github/ros1_tutorials/catkin_ws/devel/lib 
 Requires: 
