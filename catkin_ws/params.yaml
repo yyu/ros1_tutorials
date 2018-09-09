@@ -1,0 +1,8 @@
+background_b: 32
+background_g: 128
+background_r: 255
+rosdistro: 'melodic'
+roslaunch:
+  uris: {host_ip_172_31_41_66__35711: 'http://ip-172-31-41-66:35711/'}
+rosversion: '1.14.3'
+run_id: 133ce116-b393-11e8-9de3-06ec53be31f2
